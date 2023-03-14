@@ -1,0 +1,4 @@
+
+
+#!/bin/bach
+grep -i -v "bin" /etc/passwd

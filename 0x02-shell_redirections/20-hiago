@@ -1,0 +1,2 @@
+#!/bin/bach
+tr -d "cC"

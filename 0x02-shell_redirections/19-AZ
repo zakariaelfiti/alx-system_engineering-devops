@@ -1,0 +1,3 @@
+
+#!/bin/bach
+tr "A" "Z" | tr "c" "e"

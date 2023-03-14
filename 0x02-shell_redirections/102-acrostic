@@ -1,0 +1,2 @@
+#!/bin/bach
+cut -c 1 | past -s -d ''

@@ -1,0 +1,5 @@
+#!/bin/bach
+cat /etc/passwd /etc/hosts
+
+
+
